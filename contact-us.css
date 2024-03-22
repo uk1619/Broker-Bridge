@@ -1,0 +1,1660 @@
+*{
+  margin: 0;
+  padding: 0;
+
+}
+
+.main-f-r-a-m-e-child {
+  height: 153px;
+  width: 1440px;
+  position: relative;
+  background-color: var(--color-black);
+  display: none;
+  max-width: 100%;
+}
+.download-3-removebg-preview-icon {
+  height: 100px;
+  width: 270px;
+  position: relative;
+  object-fit: contain;
+  max-width: 100%;
+  z-index: 1;
+}
+.main-f-r-a-m-e {
+  height: 108px;
+  width: 1520px;
+  background-color: var(--color-black);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-lg) var(--padding-3xs);
+  box-sizing: border-box;
+  flex-shrink: 0;
+  debug_commit: f6aba90;
+  max-width: 100%;
+}
+.solutions-resources-rental {
+  align-self: stretch;
+  position: relative;
+  font-weight: 500;
+  white-space: pre-wrap;
+  flex-shrink: 0;
+  debug_commit: f6aba90;
+  z-index: 1;
+  margin: -60px;
+  align-content: center;
+  text-align: center;
+}
+.main-f-r-a-m-e-parent,
+.solutions-resources-rental-too-wrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.solutions-resources-rental-too-wrapper {
+  width: 839px;
+  flex-direction: column;
+  padding: 72px 0 0;
+  margin-left: -804px;
+}
+.main-f-r-a-m-e-parent {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 0 var(--padding-6xl) 0;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--white);
+  font-family: var(--font-montserrat);
+}
+.contact-us-child {
+  width: 74px;
+  height: 70px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.help-center-frequently {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  font-weight: 700;
+  font-family: inherit;
+}
+.whatsapp-image-2024-03-21-at-0-icon {
+  height: 194px;
+  width: 194px;
+  position: relative;
+  object-fit: contain;
+  min-height: 194px;
+  z-index: 2;
+}
+.im-a-renter1 {
+  font-size: var(--font-size-21xl);
+  font-family: var(--font-montserrat);
+}
+.im-a-renter {
+  margin: 0;
+}
+.blank-line1 {
+  font-family: var(--font-montserrat);
+}
+.blank-line {
+  margin: 0;
+}
+.learn-about-searching {
+  font-family: var(--font-montserrat);
+}
+.learn-about-searching-for-rent {
+  margin: 0;
+}
+.applying-and-paying {
+  font-family: var(--font-montserrat);
+}
+.applying-and-paying-rent-onli {
+  margin: 0;
+}
+.blank-line3 {
+  font-family: var(--font-montserrat);
+}
+.blank-line2 {
+  margin: 0;
+}
+.renter {
+  text-decoration: underline;
+}
+.span {
+  font-size: var(--font-size-6xl);
+}
+.help {
+  font-size: var(--font-size-3xl);
+}
+.span1 {
+  font-size: var(--font-size-6xl);
+}
+.center {
+  font-size: var(--font-size-3xl);
+}
+.help-center {
+  text-decoration: underline;
+}
+.renter-help-center1 {
+  color: inherit;
+}
+.renter-help-center {
+  margin: 0;
+}
+.im-a-renter-container {
+  align-self: stretch;
+  height: 183px;
+  position: relative;
+  display: inline-block;
+}
+.im-a-renter-learn-about-searc-wrapper {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-smi) 0 0;
+  box-sizing: border-box;
+  min-width: 260px;
+  max-width: 100%;
+}
+.whatsapp-image-2024-03-21-at-0-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-9xs);
+  max-width: 100%;
+}
+.frame-wrapper2 {
+  width: 598px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 3px;
+  box-sizing: border-box;
+  min-width: 598px;
+  max-width: 100%;
+}
+.i-manage-rentals1 {
+  font-size: var(--font-size-21xl);
+  font-family: var(--font-montserrat);
+}
+.i-manage-rentals {
+  margin: 0;
+}
+.blank-line5 {
+  font-family: var(--font-montserrat);
+}
+.blank-line4 {
+  margin: 0;
+}
+.get-help-adding {
+  font-family: var(--font-montserrat);
+}
+.get-help-adding-editing-and {
+  margin: 0;
+}
+.managing-your-properties1 {
+  font-family: var(--font-montserrat);
+}
+.managing-your-properties {
+  margin: 0;
+}
+.blank-line7 {
+  font-family: var(--font-montserrat);
+}
+.blank-line6 {
+  margin: 0;
+}
+.rental-manager-help {
+  text-decoration: underline;
+}
+.rental-manager-help-center1 {
+  color: inherit;
+}
+.rental-manager-help-center {
+  margin: 0;
+}
+.i-manage-rentals-container {
+  position: absolute;
+  top: 19px;
+  left: 157px;
+  display: inline-block;
+  width: 488px;
+}
+.whatsapp-image-2024-03-21-at-0-icon1 {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  max-height: 100%;
+  width: 207px;
+  object-fit: cover;
+  z-index: 1;
+}
+.i-manage-rentals-get-help-addi-parent {
+  height: 205px;
+  flex: 1;
+  position: relative;
+  min-width: 419px;
+  max-width: 100%;
+}
+.frame-parent1,
+.frame-wrapper1 {
+  display: flex;
+  flex-direction: row;
+  max-width: 100%;
+}
+.frame-parent1 {
+  flex: 1;
+  align-items: flex-end;
+  justify-content: center;
+  gap: 52px;
+}
+.frame-wrapper1 {
+  width: 1365px;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-16xl);
+  box-sizing: border-box;
+  font-size: var(--font-size-3xl);
+}
+.help-center-frequently-asked-q-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-23xl);
+  box-sizing: border-box;
+  gap: 85px;
+  max-width: 100%;
+  text-align: center;
+  font-size: var(--font-size-31xl);
+  color: var(--color-black);
+  font-family: var(--font-montserrat);
+}
+.hand-with-key-0-photoroom-remo {
+  width: 237px;
+  height: 224px;
+  position: relative;
+  display: none;
+}
+.blank-line8,
+.top-faqs-for-renters {
+  margin: 0;
+}
+.does-apartmentscom-screen {
+  text-decoration: underline;
+  font-weight: 500;
+}
+.does-apartmentscom-screen-lis2 {
+  color: inherit;
+}
+.does-apartmentscom-screen-lis1 {
+  margin-bottom: 0;
+}
+.how-do-i {
+  text-decoration: underline;
+  font-weight: 500;
+}
+.how-do-i-apply-to-rentals1 {
+  color: inherit;
+}
+.how-do-i-apply-to-rentals {
+  margin-bottom: 0;
+}
+.will-you-help {
+  text-decoration: underline;
+  font-weight: 500;
+}
+.will-you-help-me-find-a-new-pl1 {
+  color: inherit;
+}
+.will-you-help-me-find-a-new-pl {
+  margin-bottom: 0;
+}
+.how-do-i1 {
+  text-decoration: underline;
+  font-weight: 500;
+}
+.how-do-i-avoid-a-scam1 {
+  color: inherit;
+}
+.how-do-i-avoid-a-scam {
+  margin-bottom: 0;
+}
+.a-property-manager {
+  text-decoration: underline;
+  font-weight: 500;
+}
+.a-property-manager-is-not-resp {
+  color: inherit;
+}
+.does-apartmentscom-screen-lis {
+  margin: 0;
+  font-size: var(--font-size-3xl);
+  padding-left: var(--padding-10xl);
+}
+.top-faqs-for-container {
+  height: 229px;
+  width: 494px;
+  position: relative;
+  display: inline-block;
+  min-width: 494px;
+  max-width: 100%;
+}
+.blank-line9,
+.top-faqs-for-rental-managers {
+  margin: 0;
+}
+.how-do-i2 {
+  text-decoration: underline;
+  font-weight: 500;
+}
+.how-do-i-refresh-or-edit-a-lis2 {
+  color: inherit;
+}
+.how-do-i-refresh-or-edit-a-lis1 {
+  margin-bottom: 0;
+}
+.im-having-trouble {
+  text-decoration: underline;
+  font-weight: 500;
+}
+.im-having-trouble-verifying-m1 {
+  color: inherit;
+}
+.im-having-trouble-verifying-m {
+  margin-bottom: 0;
+}
+.why-was-my {
+  text-decoration: underline;
+  font-weight: 500;
+}
+.why-was-my-listing-rejected1 {
+  color: inherit;
+}
+.why-was-my-listing-rejected {
+  margin-bottom: 0;
+}
+.im-having-issues {
+  text-decoration: underline;
+  font-weight: 500;
+}
+.im-having-issues-logging-in1 {
+  color: inherit;
+}
+.im-having-issues-logging-in {
+  margin-bottom: 0;
+}
+.who-is-my {
+  text-decoration: underline;
+  font-weight: 500;
+}
+.who-is-my-account-representati {
+  color: inherit;
+}
+.how-do-i-refresh-or-edit-a-lis {
+  margin: 0;
+  font-size: var(--font-size-3xl);
+  padding-left: var(--padding-10xl);
+}
+.top-faqs-for-container1 {
+  height: 229px;
+  width: 625px;
+  position: relative;
+  display: inline-block;
+  min-width: 625px;
+  max-width: 100%;
+}
+.frame-wrapper3,
+.top-faqs-for-renters-does-apar-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.top-faqs-for-renters-does-apar-parent {
+  flex: 1;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.frame-wrapper3 {
+  width: 1394px;
+  justify-content: flex-end;
+  padding: 0 55px;
+  box-sizing: border-box;
+  text-align: left;
+}
+.whatsapp-image-2024-03-21-at-0-icon2 {
+  height: 200px;
+  width: 352px;
+  position: relative;
+  object-fit: cover;
+  max-width: 100%;
+}
+.whatsapp-image-2024-03-21-at-0-wrapper {
+  align-self: stretch;
+  height: 200px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-xl) 0 var(--padding-10xl);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.cant-find-what-youre-looking {
+  margin: 0;
+  font-size: var(--font-size-31xl);
+}
+.blank-line10,
+.fill-out-the {
+  margin: 0;
+}
+.cant-find-what-container {
+  align-self: stretch;
+  height: 98px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.frame-parent3 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 0 0 5px;
+  box-sizing: border-box;
+  gap: var(--gap-mini);
+  max-width: 100%;
+  font-size: var(--font-size-3xl);
+}
+.rectangle-div {
+  height: 96px;
+  width: 553px;
+  position: relative;
+  border-radius: var(--br-21xl);
+  background-color: var(--color-gainsboro-100);
+  display: none;
+  max-width: 100%;
+}
+.first-name {
+  width: 160px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.rectangle-parent1 {
+  width: 553px;
+  border-radius: var(--br-21xl);
+  background-color: var(--color-gainsboro-100);
+  justify-content: flex-start;
+  padding: var(--padding-14xl) var(--padding-xl) var(--padding-13xl);
+  box-sizing: border-box;
+}
+.frame-input,
+.frame-parent5,
+.rectangle-parent1 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.frame-input {
+  width: 553px;
+  border: 0;
+  outline: 0;
+  background-color: var(--color-gainsboro-100);
+  height: 96px;
+  border-radius: var(--br-21xl);
+  justify-content: flex-start;
+  padding: var(--padding-14xl) var(--padding-4xl) var(--padding-13xl);
+  box-sizing: border-box;
+  font-family: var(--font-montserrat);
+  font-size: var(--font-size-6xl);
+  color: var(--color-gray-100);
+}
+.frame-parent5 {
+  align-self: stretch;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.frame-child4,
+.frame-child5 {
+  width: 553px;
+  border: 0;
+  outline: 0;
+  background-color: var(--color-gainsboro-100);
+  height: 96px;
+  border-radius: var(--br-21xl);
+  flex-direction: row;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  font-family: var(--font-montserrat);
+  font-size: var(--font-size-6xl);
+  color: var(--color-gray-100);
+}
+.frame-child4 {
+  display: flex;
+  align-items: flex-start;
+  padding: var(--padding-11xl) var(--padding-14xl) var(--padding-16xl);
+  max-width: 100%;
+}
+.frame-child5 {
+  padding: var(--padding-14xl) var(--padding-4xl) var(--padding-13xl);
+}
+.frame-child5,
+.frame-parent4,
+.frame-parent6 {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.frame-parent6 {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.frame-parent4 {
+  width: 1216px;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-mini);
+}
+.frame-parent2,
+.frame-wrapper4 {
+  align-self: stretch;
+  display: flex;
+  max-width: 100%;
+}
+.frame-wrapper4 {
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-2xl) 0 var(--padding-xl);
+  box-sizing: border-box;
+  font-size: var(--font-size-6xl);
+  color: var(--color-gray-100);
+}
+.frame-parent2 {
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 45px;
+}
+.frame-child6 {
+  height: 96px;
+  width: 1216px;
+  position: relative;
+  border-radius: var(--br-21xl);
+  background-color: var(--color-black);
+  display: none;
+  max-width: 100%;
+}
+.describe-your-issue {
+  width: 446px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.platform-description,
+.rectangle-parent2 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+}
+.rectangle-parent2 {
+  border-radius: var(--br-21xl);
+  background-color: var(--color-black);
+  padding: var(--padding-14xl) var(--padding-22xl) var(--padding-13xl);
+  max-width: 100%;
+}
+.platform-description {
+  border: 0;
+  background-color: var(--color-gainsboro-100);
+  height: 285px;
+  width: auto;
+  outline: 0;
+  border-radius: var(--br-6xl);
+  padding: var(--padding-11xl) var(--padding-14xl);
+  font-family: var(--font-montserrat);
+  font-size: var(--font-size-6xl);
+  color: var(--color-gray-100);
+}
+.similar-names-as-above-child {
+  height: 82px;
+  width: 361px;
+  position: relative;
+  border-radius: var(--br-21xl);
+  display: none;
+  max-width: 100%;
+}
+.submit {
+  width: 113px;
+  position: relative;
+  font-size: var(--font-size-11xl);
+  font-weight: 600;
+  font-family: var(--font-montserrat);
+  color: var(--white);
+  text-align: center;
+  display: inline-block;
+  min-width: 113px;
+  z-index: 1;
+}
+.similar-names-as-above,
+.similar-names-as-above1 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.similar-names-as-above1 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-3xl) var(--padding-xl) var(--padding-4xl);
+  background-color: var(--color-black);
+  width: 361px;
+  border-radius: var(--br-21xl);
+}
+.similar-names-as-above1:hover {
+  background-color: var(--color-darkslategray-100);
+}
+.similar-names-as-above {
+  width: 1161px;
+  padding: 0 var(--padding-xl);
+}
+.platform-description-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 28px;
+  max-width: 100%;
+}
+.frame-parent7,
+.frame-section,
+.frame-wrapper5 {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.frame-parent7 {
+  width: 1216px;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-mini);
+}
+.frame-section,
+.frame-wrapper5 {
+  align-self: stretch;
+  box-sizing: border-box;
+}
+.frame-wrapper5 {
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 var(--padding-2xl) 0 var(--padding-xl);
+  font-size: var(--font-size-6xl);
+  color: var(--white);
+}
+.frame-section {
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 0 0 0 1px;
+  gap: var(--gap-13xl);
+  text-align: center;
+  font-size: var(--font-size-21xl);
+  color: var(--color-black);
+  font-family: var(--font-montserrat);
+}
+.similar-names-as-above-item {
+  height: 451px;
+  width: 1569px;
+  position: absolute;
+  margin: 0 !important;
+  right: -23px;
+  bottom: 83px;
+  z-index: 1;
+}
+.home1,
+.top-optimization {
+  position: absolute;
+  margin: 0 !important;
+  bottom: 150px;
+  left: 463px;
+  line-height: 24px;
+  display: inline-block;
+  z-index: 2;
+}
+.home1 {
+  bottom: 380px;
+  left: 501px;
+  min-width: 64px;
+}
+.download-3-removebg-preview-icon1,
+.image-1-icon {
+  position: absolute;
+  margin: 0 !important;
+  object-fit: contain;
+  z-index: 2;
+}
+.image-1-icon {
+  height: 47px;
+  width: 64px;
+  right: 582px;
+  bottom: 406px;
+  border-radius: 51px;
+}
+.download-3-removebg-preview-icon1 {
+  height: 238px;
+  width: 355px;
+  bottom: 279px;
+  left: 27px;
+}
+.broker-bridge1 {
+  width: 584px;
+  position: absolute;
+  margin: 0 !important;
+  right: 146px;
+  bottom: 98px;
+  font-size: var(--font-size-xl);
+  line-height: 24px;
+  display: flex;
+  align-items: center;
+  z-index: 2;
+}
+.company {
+  right: 444px;
+  bottom: 278px;
+  line-height: 24px;
+  display: inline-block;
+  min-width: 101px;
+}
+.company,
+.icon1,
+.image-2-icon {
+  position: absolute;
+  margin: 0 !important;
+  z-index: 2;
+}
+.icon1 {
+  height: 60px;
+  width: 67px;
+  right: 682px;
+  bottom: 398px;
+  border-radius: 264px;
+  object-fit: contain;
+}
+.image-2-icon {
+  height: 47px;
+  width: 64px;
+  right: 458px;
+  bottom: 406px;
+  object-fit: cover;
+}
+.frame-child7 {
+  align-self: stretch;
+  height: 1590px;
+  position: relative;
+  background-color: var(--color-gainsboro-200);
+  display: none;
+}
+.our-customer-support-team-has {
+  margin: 0;
+  font-size: var(--font-size-31xl);
+}
+.blank-line11,
+.choose-a-category {
+  margin: 0;
+  font-weight: 500;
+}
+.our-customer-support-container {
+  align-self: stretch;
+  height: 115px;
+  position: relative;
+  display: inline-block;
+  z-index: 1;
+}
+.list-or-advertise {
+  font-size: var(--font-size-13xl);
+  font-family: var(--font-montserrat);
+}
+.list-or-advertise-your-propert {
+  margin: 0;
+}
+.blank-line13 {
+  font-weight: 500;
+  font-family: var(--font-montserrat);
+}
+.blank-line12 {
+  margin: 0;
+}
+.are-you-a {
+  font-weight: 500;
+  font-family: var(--font-montserrat);
+}
+.are-you-a-property-manager-ow {
+  margin: 0;
+}
+.blank-line15 {
+  font-weight: 500;
+  font-family: var(--font-montserrat);
+}
+.blank-line14 {
+  margin: 0;
+}
+.add-a-property2 {
+  text-decoration: underline;
+  font-weight: 600;
+}
+.add-a-property1 {
+  color: inherit;
+}
+.add-a-property {
+  margin-bottom: 0;
+}
+.advertisebrokerbridgecom2 {
+  text-decoration: underline;
+  font-weight: 600;
+}
+.advertisebrokerbridgecom1 {
+  color: inherit;
+}
+.advertisebrokerbridgecom {
+  margin-bottom: 0;
+}
+.span2 {
+  text-decoration: underline;
+  font-weight: 600;
+}
+.a {
+  color: inherit;
+}
+.add-a-property-advertisebroke {
+  margin: 0;
+  padding-left: var(--padding-14xl);
+}
+.list-or-advertise-container {
+  height: 307px;
+  flex: 1;
+  position: relative;
+  display: inline-block;
+  max-width: 100%;
+  z-index: 1;
+}
+.renters-hub {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-7xs);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.property-owners {
+  font-size: var(--font-size-13xl);
+  font-family: var(--font-montserrat);
+}
+.property-owners-managers {
+  margin: 0;
+}
+.blank-line18 {
+  font-size: var(--font-size-6xl);
+}
+.blank-line17 {
+  font-weight: 500;
+  font-family: var(--font-montserrat);
+}
+.blank-line16 {
+  margin: 0;
+}
+.get-the-support {
+  font-size: var(--font-size-3xl);
+}
+.get-the-support-you-need-to-co1 {
+  font-weight: 500;
+  font-family: var(--font-montserrat);
+}
+.get-the-support-you-need-to-co {
+  margin: 0;
+}
+.blank-line21 {
+  font-size: var(--font-size-6xl);
+}
+.blank-line20 {
+  font-weight: 500;
+  font-family: var(--font-montserrat);
+}
+.blank-line19 {
+  margin: 0;
+}
+.general-support1 {
+  font-size: var(--desktop-h5-size);
+  font-family: var(--font-montserrat);
+}
+.general-support {
+  margin: 0;
+}
+.rental-manager-tools2 {
+  text-decoration: underline;
+  font-weight: 500;
+}
+.rental-manager-tools1 {
+  color: inherit;
+}
+.rental-manager-tools {
+  margin-bottom: 0;
+}
+.supportbrokerbridgecom2 {
+  text-decoration: underline;
+  font-weight: 500;
+}
+.supportbrokerbridgecom1 {
+  color: inherit;
+}
+.supportbrokerbridgecom {
+  margin-bottom: 0;
+}
+.span3 {
+  text-decoration: underline;
+  font-weight: 500;
+}
+.a1 {
+  color: inherit;
+}
+.rental-manager-tools-supportb {
+  margin: 0;
+  padding-left: var(--padding-14xl);
+}
+.property-owners-container {
+  align-self: stretch;
+  height: 329px;
+  position: relative;
+  display: inline-block;
+  z-index: 1;
+}
+.customer-support {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-62xl);
+  min-width: 388px;
+  max-width: 100%;
+}
+.multifamily-advertisers1 {
+  font-size: var(--font-size-13xl);
+  font-family: var(--font-montserrat);
+}
+.multifamily-advertisers-container {
+  white-space: pre-wrap;
+}
+.multifamily-advertisers {
+  margin: 0;
+}
+.blank-line24 {
+  font-weight: 500;
+  font-family: var(--font-montserrat);
+}
+.blank-line-container,
+.blank-line23 {
+  white-space: pre-wrap;
+}
+.blank-line22 {
+  margin: 0;
+}
+.manage-your-listing {
+  font-weight: 500;
+  font-family: var(--font-montserrat);
+  position: relative;
+  top: -122px;
+}
+.manage-your-listing-on-apartme1,
+.manage-your-listing-on-apartme2 {
+  white-space: pre-wrap;
+}
+.manage-your-listing-on-apartme {
+  margin: 0;
+}
+.blank-line27 {
+  font-weight: 500;
+  font-family: var(--font-montserrat);
+}
+.blank-line-container1,
+.blank-line26 {
+  white-space: pre-wrap;
+}
+.blank-line25 {
+  margin: 0;
+}
+.support2 {
+  font-family: var(--font-montserrat);
+}
+.support-container,
+.support1,
+.support2 {
+  white-space: pre-wrap;
+}
+.support {
+  margin: 0;
+}
+.blank-line30 {
+  font-weight: 500;
+  font-family: var(--font-montserrat);
+}
+.blank-line-container2,
+.blank-line29 {
+  white-space: pre-wrap;
+}
+.blank-line28 {
+  margin: 0;
+}
+.rental-manager-tools6 {
+  text-decoration: underline;
+  font-weight: 600;
+}
+.rental-manager-tools5 {
+  /* white-space: pre-wrap; */
+}
+.rental-manager-tools4 {
+  color: inherit;
+}
+.rental-manager-tools3 {
+  margin-bottom: 0;
+  position: relative;
+  top: -346px;
+}
+.supportapartmentscom3 {
+  text-decoration: underline;
+  font-weight: 600;
+}
+.supportapartmentscom2 {
+  /* white-space: pre-wrap; */
+  position: relative;
+  top: -348px;
+  right: -2px;
+  
+}
+.supportapartmentscom1 {
+  color: inherit;
+}
+.supportapartmentscom {
+  margin-bottom: 0;
+}
+.span5 {
+  text-decoration: underline;
+  font-weight: 600;
+}
+.span4 {
+  /* white-space: pre-wrap; */
+  position: relative;
+    top: -346px;
+}
+.a2 {
+  color: inherit;
+}
+.rental-manager-tools-supporta {
+  margin: 0;
+  padding-left: var(--padding-14xl);
+}
+.multifamily-advertisers-manage-container {
+  align-self: stretch;
+  height: 337px;
+  position: relative;
+  display: inline-block;
+  z-index: 1;
+}
+.renters1 {
+  font-size: var(--font-size-13xl);
+  font-family: var(--font-montserrat);
+}
+.renters {
+  margin: 0;
+}
+.blank-line33 {
+  font-size: var(--font-size-3xl);
+}
+.blank-line32 {
+  font-weight: 500;
+}
+.blank-line31 {
+  margin: 0;
+}
+.get-help-finding {
+  font-size: var(--font-size-3xl);
+}
+.get-help-finding-a-new-home-o1 {
+  font-weight: 500;
+}
+.get-help-finding-a-new-home-o {
+  margin: 0;
+}
+.blank-line36 {
+  font-size: var(--font-size-3xl);
+}
+.blank-line35 {
+  font-weight: 500;
+}
+.blank-line34 {
+  margin: 0;
+}
+.email1 {
+  font-weight: 500;
+}
+.supportbrokerbridgecom5 {
+  text-decoration: underline;
+}
+.supportbrokerbridgecom4 {
+  font-weight: 500;
+}
+.supportbrokerbridgecom3 {
+  color: inherit;
+}
+.email-supportbrokerbridgeco1 {
+  margin-bottom: 0;
+}
+.call {
+  font-weight: 500;
+}
+.span7 {
+  text-decoration: underline;
+}
+.span6 {
+  font-weight: 500;
+}
+.a3 {
+  color: inherit;
+}
+.call-888-658-7368 {
+  margin-bottom: 0;
+}
+.email-supportbrokerbridgeco {
+  margin: 0;
+  padding-left: var(--padding-18xl);
+}
+.renters-get-help-container {
+  align-self: stretch;
+  height: 275px;
+  position: relative;
+  display: inline-block;
+  z-index: 1;
+  font-size: var(--desktop-h5-size);
+}
+.multifamily-advertisers-manage-parent,
+.property-search {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.multifamily-advertisers-manage-parent {
+  flex: 1;
+  flex-direction: column;
+  gap: 50px;
+  min-width: 384px;
+}
+.property-search {
+  align-self: stretch;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 108px;
+}
+.image-3-icon {
+  height: 109px;
+  width: 109px;
+  position: relative;
+  object-fit: cover;
+  z-index: 2;
+}
+.image-3-wrapper {
+  width: 1039px;
+  height: 109px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.properties-list,
+.properties-list-wrapper,
+.rectangle-parent3 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.properties-list {
+  flex: 1;
+  flex-direction: column;
+  gap: var(--gap-21xl);
+}
+.properties-list-wrapper,
+.rectangle-parent3 {
+  box-sizing: border-box;
+}
+.properties-list-wrapper {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 76px 0 var(--padding-49xl);
+  text-align: left;
+}
+.rectangle-parent3 {
+  flex: 1;
+  background-color: var(--color-gainsboro-200);
+  flex-direction: column;
+  padding: 93px 0 420px;
+  gap: 96px;
+  text-align: center;
+  font-size: var(--font-size-6xl);
+  color: var(--color-black);
+  font-family: var(--font-montserrat);
+}
+.connect-with-our {
+  position: absolute;
+  margin: 0 !important;
+  right: 382px;
+  bottom: 488px;
+  line-height: 24px;
+  display: inline-block;
+  z-index: 2;
+}
+.image-4-icon,
+.similar-names-as-above-inner {
+  position: absolute;
+  margin: 0 !important;
+  object-fit: contain;
+  z-index: 2;
+}
+.image-4-icon {
+  height: 58px;
+  width: 57px;
+  right: 336px;
+  bottom: 404px;
+  border-radius: 999px;
+}
+.similar-names-as-above-inner {
+  height: 568px;
+  width: 3px;
+  bottom: -15px;
+  left: 439px;
+}
+
+.similar-names-as-above-lpl {
+  height: 668px;
+  width: 3px;
+  bottom: -15px;
+  left: 539px;
+}
+.building-the-best {
+  height: 155px;
+  width: 400px;
+  position: absolute;
+  margin: 0 !important;
+  bottom: 74px;
+  left: 14px;
+  font-size: var(--desktop-body-size);
+  line-height: 24px;
+  display: flex;
+  white-space: pre-wrap;
+  align-items: center;
+  z-index: 2;
+}
+.line-icon,
+.similar-names-as-above-child1 {
+  height: 1px;
+  position: absolute;
+  margin: 0 !important;
+  object-fit: contain;
+  z-index: 2;
+}
+.line-icon {
+  width: 280px;
+  bottom: 417px;
+  left: 455px;
+}
+.similar-names-as-above-child1 {
+  width: 245px;
+  right: 22px;
+  bottom: 420px;
+}
+.product {
+  position: absolute;
+  margin: 0 !important;
+  bottom: 321px;
+  left: 494px;
+  line-height: 24px;
+  min-width: 85px;
+}
+.business,
+.product,
+.whats-new {
+  display: inline-block;
+  z-index: 2;
+}
+.whats-new {
+  position: absolute;
+  margin: 0 !important;
+  bottom: 263px;
+  left: 475px;
+  line-height: 24px;
+  min-width: 124px;
+}
+.business {
+  bottom: 205px;
+  left: 490px;
+  min-width: 94px;
+}
+.about-us2,
+.blog,
+.business,
+.customers,
+.learn {
+  position: absolute;
+  margin: 0 !important;
+  line-height: 24px;
+}
+.about-us2 {
+  height: 36px;
+  right: 444px;
+  bottom: 325px;
+  display: flex;
+  align-items: center;
+  min-width: 104px;
+  z-index: 3;
+}
+.blog,
+.customers,
+.learn {
+  right: 439px;
+  bottom: 220px;
+  display: inline-block;
+  min-width: 115px;
+  z-index: 2;
+}
+.blog,
+.learn {
+  right: 471px;
+  bottom: 162px;
+  min-width: 50px;
+}
+.learn {
+  right: 90px;
+  bottom: 389px;
+  min-width: 61px;
+}
+.work-management {
+  right: 22px;
+  bottom: 337px;
+}
+.customer-success,
+.partners,
+.support3,
+.work-management {
+  position: absolute;
+  margin: 0 !important;
+  line-height: 24px;
+  display: inline-block;
+  z-index: 2;
+}
+.partners {
+  right: 76px;
+  bottom: 283px;
+  min-width: 89px;
+}
+.customer-success,
+.support3 {
+  right: 24px;
+  bottom: 228px;
+}
+.support3 {
+  right: 79px;
+  bottom: 162px;
+  min-width: 86px;
+}
+.contact-us,
+.similar-names-as-above2 {
+  position: relative;
+  display: flex;
+  justify-content: flex-start;
+}
+.similar-names-as-above2 {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-3xl);
+  color: var(--white);
+  font-family: var(--desktop-body);
+}
+.contact-us {
+  width: 100%;
+  background-color: var(--white);
+  overflow: hidden;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 91px;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1200px) {
+  .frame-wrapper2 {
+    flex: 1;
+  }
+  .frame-parent1 {
+    flex-wrap: wrap;
+  }
+  .top-faqs-for-container,
+  .top-faqs-for-container1 {
+    flex: 1;
+  }
+  .top-faqs-for-renters-does-apar-parent {
+    flex-wrap: wrap;
+  }
+  .frame-wrapper3 {
+    padding-left: var(--padding-8xl);
+    padding-right: var(--padding-8xl);
+    box-sizing: border-box;
+  }
+  .frame-parent5 {
+    flex-wrap: wrap;
+  }
+  .frame-parent6 {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .rectangle-parent3 {
+    padding-top: 60px;
+    padding-bottom: 273px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 1050px) {
+  .help-center-frequently {
+    font-size: var(--font-size-21xl);
+  }
+  .top-faqs-for-container1 {
+    min-width: 100%;
+  }
+  .submit {
+    font-size: var(--font-size-5xl);
+  }
+  .rectangle-parent3 {
+    padding-top: 39px;
+    padding-bottom: 177px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 750px) {
+  .whatsapp-image-2024-03-21-at-0-icon {
+    flex: 1;
+  }
+  .whatsapp-image-2024-03-21-at-0-parent {
+    flex-wrap: wrap;
+  }
+  .frame-wrapper2,
+  .i-manage-rentals-get-help-addi-parent {
+    min-width: 100%;
+  }
+  .frame-parent1 {
+    gap: 52px 26px;
+  }
+  .help-center-frequently-asked-q-parent {
+    gap: 42px 85px;
+  }
+  .top-faqs-for-container {
+    min-width: 100%;
+  }
+  .frame-parent2 {
+    gap: 22px 45px;
+  }
+  .frame-section {
+    gap: 16px 32px;
+  }
+  .customer-support {
+    gap: 40px 81px;
+    min-width: 100%;
+  }
+  .multifamily-advertisers-manage-parent {
+    gap: 25px 50px;
+    min-width: 100%;
+  }
+  .property-search {
+    gap: var(--gap-35xl);
+  }
+  .properties-list {
+    gap: 20px 40px;
+  }
+  .properties-list-wrapper {
+    padding-left: var(--padding-15xl);
+    padding-right: 38px;
+    box-sizing: border-box;
+  }
+  .rectangle-parent3 {
+    gap: 48px 96px;
+  }
+  .contact-us {
+    gap: 45px 91px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .solutions-resources-rental {
+    font-size: 19px;
+  }
+  .help-center-frequently {
+    font-size: var(--font-size-11xl);
+  }
+  .i-manage-rentals-container,
+  .im-a-renter-container {
+    font-size: var(--desktop-button-size);
+  }
+  .help-center-frequently-asked-q-parent {
+    gap: 21px 85px;
+    padding-bottom: var(--padding-8xl);
+    box-sizing: border-box;
+  }
+  .cant-find-what-container,
+  .top-faqs-for-container,
+  .top-faqs-for-container1 {
+    font-size: var(--desktop-button-size);
+  }
+  .describe-your-issue,
+  .first-name {
+    font-size: var(--font-size-xl);
+  }
+  .home1,
+  .submit,
+  .top-optimization {
+    font-size: var(--desktop-button-size);
+  }
+  .home1,
+  .top-optimization {
+    line-height: 19px;
+  }
+  .broker-bridge1,
+  .company {
+    font-size: var(--desktop-body-size);
+    line-height: 19px;
+  }
+  .company {
+    font-size: var(--desktop-button-size);
+  }
+  .list-or-advertise-container,
+  .our-customer-support-container,
+  .property-owners-container {
+    font-size: var(--font-size-xl);
+  }
+  .customer-support {
+    gap: 20px 81px;
+  }
+  .multifamily-advertisers-manage-container {
+    font-size: var(--font-size-xl);
+  }
+  .renters-get-help-container {
+    font-size: var(--desktop-button-size);
+  }
+  .property-search {
+    gap: 27px;
+  }
+  .rectangle-parent3 {
+    gap: 24px 96px;
+    padding-top: var(--padding-6xl);
+    padding-bottom: 115px;
+    box-sizing: border-box;
+  }
+  .about-us2,
+  .blog,
+  .business,
+  .connect-with-our,
+  .customer-success,
+  .customers,
+  .learn,
+  .partners,
+  .product,
+  .support3,
+  .whats-new,
+  .work-management {
+    font-size: var(--desktop-button-size);
+    line-height: 19px;
+  }
+  .contact-us {
+    gap: 23px 91px;
+  }
+}
+
+.support2{
+  
+  position: relative;
+  top: -236px;
+  right: 160px;
+}
+
+.supportapartmentscom3 {
+  text-decoration: underline;
+  font-weight: 600;
+}
