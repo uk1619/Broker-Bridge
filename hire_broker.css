@@ -1,0 +1,729 @@
+body {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.horizontal-line {
+  margin-top: 60px;
+}
+
+.button-container {
+  display: flex;
+  /* margin-left: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-right: 20px; */
+  margin: 10px 20px;
+}
+.button {
+  width: 100%;
+  height: 100%;
+  font-size: 22px;
+  border: none;
+  color: #000000;
+  /* border: none;
+  border-radius: 5px; */
+  cursor: pointer;
+  background-color: white;
+}
+
+.bread-crumb {
+  margin-top: 40px;
+  margin-left: 90px;
+
+  display: flex;
+  align-items: center;
+  margin-right: 10px;
+}
+
+.bread-crumb img {
+  margin-right: 22px;
+  width: 38px;
+  height: 28px;
+}
+
+.current-page {
+  color: rgba(0, 0, 0, 0.7);
+  font-size: 16px;
+  font-weight: 600;
+  word-wrap: break-word;
+  font-size: x-large;
+}
+
+.dropdown-container {
+  margin-top: 0px;
+  padding: 35px;
+  color: #FFFFFF;
+  color: #FFFFFF;
+  font-size: 32px;
+  font-weight: 600;
+  word-wrap: break-word;
+
+
+}
+
+
+.drp {
+  margin-left: 35px;
+  color: #FFFFFF;
+  font-size: 20px;
+  font-weight: 600;
+  word-wrap: break-word;
+  background-color: #000000;
+  padding: 14px;
+  border-radius: 6px;
+}
+
+#sort {
+  margin-right: 68px;
+  color: rgba(0, 0, 0, 0.7);
+  font-size: 22px;
+  font-family: Inter;
+  font-weight: bold;
+  word-wrap: break-word;
+}
+
+.header {
+  display: flex;
+  /* justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  color: #ffffff; */
+}
+
+.left-section {
+  flex: 1; /* Takes up the available space on the left */
+}
+
+.left-section {
+  margin-left: 50px;
+  color: rgba(0, 0, 0, 0.7);
+  font-size: 24px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+  /* margin: 0; Remove default margin */
+}
+
+.right-section {
+  display: flex;
+  align-items: center;
+  font-size: 22px;
+  padding: 10px;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(3, 4fr);
+  /* grid-template-rows: repeat(4, 1fr); */
+  margin: 0 auto;
+  /* border: none; Adjust the gap between items as needed */
+}
+
+.grid-item {
+  /* border: 1px solid #ccc; */
+  padding: 10px;
+  align-items: center;
+  margin-left: 40px;
+  margin-right: 40px;
+}
+
+.profile {
+  display: flex;
+  gap: 5px;
+}
+
+.profile-info {
+  margin-top: 10px;
+}
+
+.proimg {
+  margin-right: 4px;
+}
+
+.profile-info img {
+  width: 50px; /* Adjust the  image ***prayag   */
+  height: 50px;
+  border-radius: 50%;
+}
+
+.name {
+  font-weight: bold;
+  font-size: 17px;
+  color: black;
+}
+
+.description {
+  margin-top: 5px;
+  color: #003366;
+  font-size: 19px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.rating {
+  display: flex;
+  margin-top: 10px;
+  align-items: center;
+  gap: 7px;
+}
+
+.rating img {
+  vertical-align: middle;
+  /* margin-right: 50px; */
+  float: left;
+}
+
+.rating-text {
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.numbar {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 29px;
+  margin-top: 78px;
+  margin-bottom: 78px;
+}
+
+.source:link {
+  color: #000000;
+  text-decoration: none;
+  color: #003366;
+  font-size: 28px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+/* Making global variables */
+:root {
+  --bg-yellow: #000000;
+  --yellow-color: #000000;
+  --blue: #FFFFFF;
+  --bg-blue: #FFFFFF;
+}
+
+/*__________________________________ Navbar css starts here _____________________________________________  */
+
+.navbar {
+  background-color: var(--yellow-color);
+  position: sticky;
+  width: 100%;
+  justify-content: space-between;
+  padding: 10px 20px;
+  font-family: "Inter", sans-serif;
+}
+
+.homeybtn {     
+  background-color: Transparent;
+  background-repeat:no-repeat;
+  border: none;
+  cursor:pointer;
+  overflow: hidden;
+  color: #FFFFFF;
+  margin-top: 30px;
+  font-size: 18px;       
+}
+
+.dropdown{
+  color: #FFFFFF;
+}
+
+#first {
+  font-weight: 600px;
+  font-size: 30px;
+  line-height: normal;
+  text-align: center;
+}
+
+#logo {
+  width: 180px;
+  height: auto;
+}
+
+.nav-left {
+  align-items: center;
+  display: flex;
+}
+
+.nav-right {
+  align-items: center;
+}
+
+.nav-values {
+  margin-right: 2rem;
+  font-size: large;
+}
+
+.display-flex {
+  display: flex;
+}
+
+.hire-page-child1 {
+  top: calc(50% - 2311px);
+  left: calc(50% + 542px);
+  border-radius: var(--br-xl);
+  background-color: var(--color-darkslategray-200);
+  width: 137px;
+  height: 56px;
+  position: relative;
+  top: 28px;
+
+}
+
+
+#login {
+  border-radius: 18px;
+  background-color: #323030;
+  color: white;
+  padding: 8px 10px;
+  margin-top: 8px;
+  margin-bottom: 8px;
+  position: relative;
+  text-align: center;
+}
+
+#login:hover {
+  background-color: #292424;
+}
+
+/* Dropdown button css  */
+.dropbtn {
+  background-color: var(--yellow-color);
+  border: none;
+  cursor: pointer;
+}
+
+.dropbtn:hover,
+.dropbtn:focus {
+  background-color: var(--bg-yellow);
+}
+
+/* The container <div> - needed to position the dropdown content */
+.dropdown {
+  position: relative;
+  /* display: inline-block;  */
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content {
+  display: none;
+  margin-top: 1rem;
+  position: absolute;
+  background-color: var(--yellow-color);
+  min-width: 100%;
+  overflow: hidden;
+  /*to make scroll on small screen*/
+  box-shadow: 0px 8px 16px 0px #ffffff;
+  z-index: 1;
+  max-height: 10rem;
+  transition: max-height 10s ease-out;
+}
+
+.dropdown button:hover {
+  font-weight: 550;
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+  color: #FFFFFF;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+/* Change color of dropdown links on hover */
+.dropdown-content a:hover {
+  background-color: var(--yellow-color);
+  font-weight: bold;
+}
+
+/* Show the dropdown menu (use JS to add this class to the .dropdown-content container when the user clicks on the dropdown button) */
+.show {
+  display: flex;
+}
+
+/*__________________________________ Navbar css ends here _____________________________________________  */
+
+/*________________________________ utility classes___________________________________________ */
+/* .btn {
+  cursor: pointer;
+}
+
+.flex-col {
+  display: flex;
+  flex-direction: column;
+}
+
+.flex-row {
+  display: flex;
+  align-items: center;
+}
+
+.justify {
+  justify-content: space-between;
+}
+
+.inter {
+  font-family: "Inter", sans-serif;
+}
+
+.remove_bord {
+  border: none;
+}
+
+.link {
+  text-decoration: none;
+}
+
+.pb-20 {
+  padding-bottom: 20px;
+}
+
+.stars .checked {
+  color: var(--yellow-color);
+}
+
+.center {
+  text-align: center;
+  align-items: center;
+} */
+/*____________________________________________ Utility classes ends ___________________________________ */
+
+/* __________________________________ footer starts _________________________________________________ */
+
+footer {
+  margin-top: 2rem;
+  position: relative;
+  width: 100%;
+  height: auto;
+  padding: 276px  100px;
+  background: #1e1e1e;
+}
+
+footer .footer-container {
+  width: 100%;
+  display: grid;
+  grid-template-columns: 2.5fr 1fr 1fr 1fr;
+  grid-gap: 20px;
+}
+
+footer h2 {
+  position: relative;
+  color: var(--blue);
+  font-weight: 600;
+  margin-bottom: 15px;
+}
+
+footer p {
+  color: #333;
+}
+
+.footer-container .links {
+  margin-top: 20px;
+  display: grid;
+  grid-template-columns: repeat(4, 50px);
+}
+
+.footer-container .links li {
+  list-style: none;
+}
+
+.footer-container .links li a {
+  display: inline-block;
+  width: 36px;
+  height: 36px;
+  background: var(--blue);
+  display: grid;
+  align-content: center;
+  justify-content: center;
+  text-decoration: none;
+}
+
+.footer-container .links li a i {
+  color: #fff;
+  font-size: 20px;
+}
+
+footer .footer-container .quicklinks {
+  position: relative;
+}
+
+footer .footer-container .quicklinks ul li {
+  list-style: none;
+}
+
+footer .footer-container .quicklinks ul li a {
+  color: #333;
+  text-decoration: none;
+  margin-bottom: 10px;
+  display: inline-block;
+}
+
+footer .footer-container .quicklinks ul li a:hover {
+  color: black;
+  font-weight: 500;
+}
+
+footer .footer-container .contact .info {
+  position: relative;
+}
+
+footer .footer-container .contact .info li {
+  display: grid;
+  grid-template-columns: 30px 1fr;
+  margin-bottom: 16px;
+}
+
+footer .footer-container .contact .info li span {
+  color: var(--blue);
+  font-size: 20px;
+}
+
+footer .footer-container .contact .info li a {
+  color: #333;
+  text-decoration: none;
+}
+
+#email:hover {
+  text-decoration: underline;
+}
+
+.copyrighttext {
+  width: 100%;
+  background: var(--blue);
+  padding: 20px 100px 30px;
+  text-align: center;
+  border: 1px solid rgba(0, 0, 0, 0.15);
+}
+
+.copyrighttext p {
+  color: var(--yellow-color);
+}
+
+/* Responsiveness for footer */
+@media (max-width: 991px) {
+  footer {
+    padding: 40px;
+  }
+
+  footer .container {
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 20px;
+  }
+
+  .copyrighttext {
+    padding: 20px 40px 30px;
+  }
+}
+
+@media (max-width: 768px) {
+  footer .container {
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    grid-gap: 20px;
+  }
+}
+
+/* __________________________________ footer ends ____________________________________________________ */
+
+
+
+/* _________________________________ popup css start______________________________________________________ */
+/* importing fonts */
+/* Inter font */
+@import url("https://fonts.googleapis.com/css2?family=Big+Shoulders+Text:wght@400;500;700&display=swap");
+.popup-container {
+  /* display: none; */
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  z-index: 1099;
+  background: rgba(0, 0, 0, 0.3);
+  place-content: center;
+  visibility: hidden;
+  opacity: 0;
+  transition: all 0.7s ease-in-out;
+}
+.popup-container.show {
+  visibility: visible;
+  opacity: 1;
+}
+.popup-login {
+  overflow: hidden;
+  border-radius: 24px;
+  position: absolute;
+  background-color: #fff;
+  width: 750px;
+  /* flex-wrap: wrap; */
+  opacity: 0;
+  transform: scale(1.1);
+  transition: all 0.4s ease;
+}
+.popup-container.show .popup-login {
+  opacity: 1;
+  transform: scale(1);
+}
+.image {
+  max-width: 50%;
+  height: 450px;
+  overflow: hidden;
+  object-fit: cover;
+  object-position: center;
+}
+.image img {
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+}
+.image h1 {
+  font-family: "Big Shoulders Text", "inter";
+  font-weight: 700;
+  font-size: 30px;
+  color: #fff;
+  position: absolute;
+  text-align: right;
+  top: 30px;
+  left: 100px;
+  line-height: 40px;
+  width: 250px;
+}
+
+.form-container .close {
+  position: absolute;
+  right: 15px;
+  top: 3px;
+  font-size: 35px;
+  font-weight: 700;
+  cursor: pointer;
+}
+.login-container {
+  padding: 30px 50px;
+  justify-content: space-evenly;
+  gap: 25px;
+}
+.signin {
+  width: 100%;
+}
+.signin p {
+  margin-bottom: 15px;
+  font-size: 20px;
+  font-weight: 700;
+  align-self: flex-start;
+}
+.or {
+  font-size: 18px;
+  font-weight: 500;
+}
+.popup-btn img {
+  width: 25px;
+  margin-right: 20px;
+}
+.popup-btn {
+  width: 100%;
+  font-size: 17px;
+  cursor: pointer;
+  justify-content: space-around;
+  border: none;
+  place-content: center;
+  margin: 10px;
+  padding: 8px 15px;
+  border-radius: 8px;
+  background-color: #d9d9d9;
+  transition: all 0.2s ease-in-out;
+}
+.popup-btn:hover {
+  box-shadow: rgba(0, 0, 0, 0.33) 0px 4px 12px;
+  transform: scale(1.02);
+}
+
+.email-container {
+  display: none;
+}
+
+.form-container.active .email-container {
+  display: block;
+}
+.form-container.active .login-container {
+  display: none;
+}
+.email-form .back {
+  position: absolute;
+  right: 20px;
+  top: 15px;
+  font-size: 15px;
+  font-weight: 400;
+  cursor: pointer;
+  z-index: 1099;
+}
+
+.email-form .back:hover {
+  text-decoration: underline;
+}
+
+.email-form {
+  padding: 30px 50px;
+  overflow: hidden;
+  justify-content: space-evenly;
+  gap: 25px;
+  background-color: white;
+}
+.email-form p {
+  margin-bottom: 10px;
+  font-weight: 700;
+  font-size: 23px;
+  align-self: flex-start;
+}
+
+.email-form label {
+  margin-top: 20px;
+  font-weight: 500;
+  font-size: 16px;
+  text-align: left;
+}
+.email-form input {
+  align-self: center;
+  width: 100%;
+  font-size: 17px;
+  border: none;
+  outline: none;
+  place-content: center;
+  margin: 10px;
+  padding: 10px 13px;
+  border-radius: 8px;
+  background-color: #d9d9d9;
+  transition: all 0.2s ease-in-out;
+}
+
+.email-form input:focus {
+  transform: scale(1.02);
+  box-shadow: rgba(0, 0, 0, 0.127) 0px 4px 12px;
+}
+.continue-btn {
+  padding: 8px 20px;
+  margin-top: 20px;
+  background-color: #000000;
+  color: #ffffff;
+  font-weight: 500;
+  font-size: 17px;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.footer{
+  
+}
+/* _________________________________ popup css Ends______________________________________________________ */ 
